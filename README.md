@@ -3,10 +3,6 @@
 
 ⚠️NOT ACTUALLY INVISIBLE⚠️
 
-# how to download
-
-goto releases, download the .reg file and double click it
-
 # source code
 
 goto releases, download the .reg file, right click and press edit
