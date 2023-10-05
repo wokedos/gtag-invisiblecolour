@@ -1,8 +1,6 @@
 # gtag-invisiblecolour
 
-# not actually an invisible colour!!!!!
-# not actually an invisible colour!!!!!
-# not actually an invisible colour!!!!!
+⚠️NOT ACTUALLY INVISIBLE⚠️
 
 how it works:
 
