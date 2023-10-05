@@ -1,3 +1,4 @@
+[![HitCount](https://hits.dwyl.com/wokedos/gtag-invisiblecolour.svg?style=flat-square)](http://hits.dwyl.com/wokedos/gtag-invisiblecolour)
 # gtag-invisiblecolour
 
 ⚠️NOT ACTUALLY INVISIBLE⚠️
@@ -16,4 +17,3 @@ doesnt work in other maps due to lighting, if i have time i will make it for oth
 image of the lickamabob:
 
 <p align="left"><img width="80%" alt="hellow person" src="https://cdn.discordapp.com/attachments/1141263299531513937/1159443854408286228/20231005115451_1.jpg"/></a></p>
-
