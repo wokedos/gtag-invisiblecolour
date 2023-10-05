@@ -3,7 +3,15 @@
 
 ⚠️NOT ACTUALLY INVISIBLE⚠️
 
-how it works:
+# how to download
+
+goto releases, download the .reg file and double click it
+
+# source code
+
+goto releases, download the .reg file, right click and press edit
+
+# how it works:
 
 just sets rgb values in registry edit to the same colour as the *FOREST* board
 
